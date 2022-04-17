@@ -1,0 +1,167 @@
+{
+  "Users": [
+    {
+      "Name": "Sumit Thakur",
+      "Age": "24",
+      "Address": "Punjab",
+      "Department": "full stack developer",
+      "Salary": "95021",
+      "MaritalState": "UnMarried",
+      "id": 1
+    },
+    {
+      "Name": "radhe",
+      "Age": "21",
+      "Address": "I don't know",
+      "Department": "senior executive",
+      "Salary": "85421",
+      "MaritalState": "UnMarried",
+      "id": 2
+    },
+    {
+      "Name": "Suman",
+      "Age": "22",
+      "Address": "xyx",
+      "Department": "senior executive",
+      "Salary": "87154",
+      "MaritalState": "Married",
+      "id": 3
+    },
+    
+    {
+      "Name": "Sam",
+      "Age": "23",
+      "Address": "canada",
+      "Department": "full stack developer",
+      "Salary": "120000",
+      "MaritalState": "Not Married",
+      "id": 5
+    },
+    [
+      {
+        "Name": "Sumit Thakur",
+        "Age": "24",
+        "Address": "Punjab",
+        "Department": "full stack developer",
+        "Salary": "95021",
+        "MaritalState": "UnMarried",
+        "id": 1
+      },
+    
+      
+      {
+        "Name": "Sam",
+        "Age": "23",
+        "Address": "canada",
+        "Department": "full stack developer",
+        "Salary": "120000",
+        "MaritalState": "Not Married",
+        "id": 5
+      }
+    ],
+    [
+      {
+        "Name": "Sumit Thakur",
+        "Age": "24",
+        "Address": "Punjab",
+        "Department": "full stack developer",
+        "Salary": "95021",
+        "MaritalState": "UnMarried",
+        "id": 1
+      },
+      {
+        "Name": "radhe",
+        "Age": "21",
+        "Address": "I don't know",
+        "Department": "senior executive",
+        "Salary": "85421",
+        "MaritalState": "UnMarried",
+        "id": 2
+      },
+      {
+        "Name": "Suman",
+        "Age": "22",
+        "Address": "xyx",
+        "Department": "senior executive",
+        "Salary": "87154",
+        "MaritalState": "Married",
+        "id": 3
+      },
+      {
+        "Name": "",
+        "Age": "",
+        "Address": "",
+        "Department": "",
+        "Salary": "",
+        "MaritalState": "Married",
+        "id": 4
+      },
+      {
+        "Name": "Sam",
+        "Age": "23",
+        "Address": "canada",
+        "Department": "full stack developer",
+        "Salary": "120000",
+        "MaritalState": "Not Married",
+        "id": 5
+      },
+      [
+        {
+          "Name": "Sumit Thakur",
+          "Age": "24",
+          "Address": "Punjab",
+          "Department": "full stack developer",
+          "Salary": "95021",
+          "MaritalState": "UnMarried",
+          "id": 1
+        },
+        {
+          "Name": "radhe",
+          "Age": "21",
+          "Address": "I don't know",
+          "Department": "senior executive",
+          "Salary": "85421",
+          "MaritalState": "UnMarried",
+          "id": 2
+        },
+        {
+          "Name": "Suman",
+          "Age": "22",
+          "Address": "xyx",
+          "Department": "senior executive",
+          "Salary": "87154",
+          "MaritalState": "Married",
+          "id": 3
+        },
+        {
+          "Name": "",
+          "Age": "",
+          "Address": "",
+          "Department": "",
+          "Salary": "",
+          "MaritalState": "Married",
+          "id": 4
+        },
+        {
+          "Name": "Sam",
+          "Age": "23",
+          "Address": "canada",
+          "Department": "full stack developer",
+          "Salary": "120000",
+          "MaritalState": "Not Married",
+          "id": 5
+        }
+      ]
+    ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
